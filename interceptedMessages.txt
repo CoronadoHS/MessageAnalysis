@@ -26,7 +26,7 @@ PoeON9NO-YodaEFA7-27251030-Communication error detected in transmission array se
 Yoda6MOQ-Yoda3W31-13520402-Casual log: Weather on Coruscant is unusually calm today.
 YodaTO3U-Finn4LIV-75871117-Test flight completed successfully. Minimal casualties this time.
 Tarkin01-MaulS3ZE-63110731-Project Stardust is proceeding as planned. Keep your findings secret.
-Rey5Z0MO-Stardust-14511217-Rumors spreading about Stardust. Maintain radio silence until further notice.
+Rey5Z0MO-Stardust-14511217-Rumors spreading about Darksaber. Maintain radio silence until further notice.
 Krennic1-Krennic1-64071006-Stardust calibration complete. Weapon systems nominal.
 FinnMZEJ-YodaD7HJ-59971020-Routine report: All systems functioning within acceptable parameters.
 LeiaYWJR-Maul268Y-86650103-Communication error detected in transmission array sector 7G.
@@ -83,7 +83,7 @@ Yoda70J6-Tarkin01-65451127-Stardust calibration complete. Weapon systems nominal
 Vader5NG-KyloZ2XX-51051025-Rumors of rebellion growing. Command requests surveillance increase.
 KyloFPQ9-HuxQY5PR-58304163-Encrypted directive: Resource allocation to Eadu confirmed.
 TanoIJB1-Solo2O3K-70360314-Lighthearted note: The cafeteria droids are still terrible cooks.
-Stardust-Tarkin01-99820314-Stardust calibration complete. Weapon systems nominal.
+Stardust-Tarkin01-99820314-Darksaber calibration complete. Weapon systems nominal.
 ReyNX4PB-TanoJUIZ-50290604-Casual log: Weather on Coruscant is unusually calm today.
 Kenobi19-KenobiUJ-23470319-Encrypted update: Rebel movements detected near Jedha.
 Hux03EI5-MaulMP58-89990803-Communication error detected in transmission array sector 7G.
