@@ -2,8 +2,8 @@ import StudentCode
 
 def test_countByKeyword1():
     filename = "interceptedMessages.txt"
-    keyword = "stardust"
-    assert StudentCode.countByKeyword(filename, keyword) == 245
+    keyword = "Stardust"
+    assert StudentCode.countByKeyword(filename, keyword) == 243
     
 def test_countByKeyword2():
     filename = "interceptedMessages.txt"
@@ -12,7 +12,7 @@ def test_countByKeyword2():
 
 def test_countByKeyword3():
     filename = "interceptedMessages.txt"
-    keyword = "urgent"
+    keyword = "Urgent"
     assert StudentCode.countByKeyword(filename, keyword) == 108
     
 def test_countBySender1():
